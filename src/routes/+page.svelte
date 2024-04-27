@@ -114,6 +114,7 @@
 		margin: 0;
 		overflow-x: hidden;
 		font-family: 'Quicksand', sans-serif;
+		background: #242423;
 	}
 
 	#main-container {
@@ -126,6 +127,7 @@
 		transition: flex-direction 0.3s ease;
 		overflow-y: auto;
 		background: #242423;
+		border-radius: 10px;
 	}
 
 	#sidebar-container {
@@ -174,7 +176,7 @@
 		display: block;
 		margin: 0 auto;
 		margin-top: 50px;
-		width: 50%;
+		width: 40%;
 		padding: 10px;
 		border: 2px solid #008080;
 		border-radius: 10px;
